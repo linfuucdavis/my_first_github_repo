@@ -1,2 +1,3 @@
 # my_first_github_repo
-to test out github
+This is to test out github
+type in some text
